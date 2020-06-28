@@ -1,0 +1,18 @@
+button{
+    border-radius: 8px;
+    border-color: black;
+    margin: 5px;
+    background-color:white;
+}
+
+button:hover {
+    outline: none;
+    cursor: pointer;
+  }
+  button:active{
+      background-color: #b4b4b4;
+    }
+button:focus{
+    outline: none
+  }
+
